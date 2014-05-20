@@ -1,6 +1,5 @@
 package com.xiyili.fontawesome;
 
-import android.content.Context;
 import android.content.res.Resources;
 
 /**
