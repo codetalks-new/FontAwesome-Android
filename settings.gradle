@@ -1,1 +1,1 @@
-include ':FontAwesome'
+include ':FontAwesome', ':demo'
